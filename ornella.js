@@ -1,2 +1,3 @@
-var ika =  'boluda'
+var ika =  'boluda';
+
 
